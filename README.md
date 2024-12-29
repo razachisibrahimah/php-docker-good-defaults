@@ -1,5 +1,4 @@
 ## PHP (Laravel) + Docker Hello World, for Showing Good Defaults for Using A PHP Stack in Docker
-
 > This tries to be a "good defaults" example of using PHP, Nginx, PHP-FPM, Laravel, and Composer in Docker for local development and shipping to production with all the bells, whistles, and best practices. Issues/PR welcome.
 
 **NOTE:** This is not a full PHP sample project. It's a collection of the Docker and Nginx related things you'll need to have this sort of setup fully in Docker. I'm not a PHP/Laravel developer, but rather an ops guy working with many smart PHP dev's. I continue to refine this repo as I work with teams to dev with, test on, and deploy production containers on PHP.
